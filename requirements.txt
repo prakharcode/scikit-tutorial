@@ -18,7 +18,7 @@ Jinja2==2.10
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.1
-jupyter-console==5.4.1
+jupyter-console==5.0.0
 jupyter-core==4.4.0
 mahotas==1.4.4
 MarkupSafe==1.0
